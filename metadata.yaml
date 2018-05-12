@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33879'
     url: http://www.gutenberg.org/2009/agents/33879
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29371#De-handel-in-blanke-slavinnen-.
 gutenberg_issued: '2009-07-11'
 gutenberg_type: Text
 identifiers:
